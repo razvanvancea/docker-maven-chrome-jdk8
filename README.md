@@ -1,1 +1,1 @@
-This project contains Dockerfiles that create docker images with Maven, Chrome browser and JDK.
+## Maven-Chrome Browser-JDK8 Docker Image
